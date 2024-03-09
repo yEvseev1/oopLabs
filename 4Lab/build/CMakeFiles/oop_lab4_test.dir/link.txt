@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/oop_lab4_test.dir/tests/test.cpp.o -o oop_lab4_test  -lgtest -lgtest_main 

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/oop_lab3_test.dir/tests/test.cpp.o CMakeFiles/oop_lab3_test.dir/src/Point.cpp.o CMakeFiles/oop_lab3_test.dir/src/Triangle.cpp.o CMakeFiles/oop_lab3_test.dir/src/Hexagon.cpp.o CMakeFiles/oop_lab3_test.dir/src/Octagon.cpp.o CMakeFiles/oop_lab3_test.dir/src/FigureList.cpp.o -o oop_lab3_test  -lgtest -lgtest_main 

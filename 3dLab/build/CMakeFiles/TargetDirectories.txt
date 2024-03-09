@@ -1,0 +1,4 @@
+/home/yuraevseev/Рабочий стол/education/oopLabs/3dLab/build/CMakeFiles/oop_lab3.dir
+/home/yuraevseev/Рабочий стол/education/oopLabs/3dLab/build/CMakeFiles/oop_lab3_test.dir
+/home/yuraevseev/Рабочий стол/education/oopLabs/3dLab/build/CMakeFiles/edit_cache.dir
+/home/yuraevseev/Рабочий стол/education/oopLabs/3dLab/build/CMakeFiles/rebuild_cache.dir
