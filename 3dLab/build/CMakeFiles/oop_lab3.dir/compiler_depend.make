@@ -212,6 +212,7 @@ CMakeFiles/oop_lab3.dir/main.cpp.o: /home/yuraevseev/Рабочий\ стол/ed
   /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/include/FigureList.hpp \
   /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/include/Vector.hpp \
   /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/src/Vector.cpp \
+  /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/include/Vector.hpp \
   /usr/include/c++/12/memory \
   /usr/include/c++/12/bits/stl_uninitialized.h \
   /usr/include/c++/12/bits/stl_tempbuf.h \
@@ -232,7 +233,6 @@ CMakeFiles/oop_lab3.dir/main.cpp.o: /home/yuraevseev/Рабочий\ стол/ed
   /usr/include/c++/12/backward/auto_ptr.h \
   /usr/include/c++/12/pstl/glue_memory_defs.h \
   /usr/include/c++/12/pstl/execution_defs.h \
-  /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/include/Vector.hpp \
   /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/include/Figure.hpp \
   /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/include/Point.hpp \
   /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/include/Triangle.hpp \
@@ -453,6 +453,7 @@ CMakeFiles/oop_lab3.dir/src/FigureList.cpp.o: /home/yuraevseev/Рабочий\ �
   /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/include/FigureList.hpp \
   /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/include/Vector.hpp \
   /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/src/Vector.cpp \
+  /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/include/Vector.hpp \
   /usr/include/c++/12/memory \
   /usr/include/c++/12/bits/stl_uninitialized.h \
   /usr/include/c++/12/bits/stl_tempbuf.h \
@@ -473,7 +474,6 @@ CMakeFiles/oop_lab3.dir/src/FigureList.cpp.o: /home/yuraevseev/Рабочий\ �
   /usr/include/c++/12/backward/auto_ptr.h \
   /usr/include/c++/12/pstl/glue_memory_defs.h \
   /usr/include/c++/12/pstl/execution_defs.h \
-  /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/include/Vector.hpp \
   /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/include/Figure.hpp \
   /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/include/Point.hpp \
   /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/include/Triangle.hpp \

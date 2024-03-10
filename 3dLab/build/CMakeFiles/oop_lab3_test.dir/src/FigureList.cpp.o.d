@@ -173,6 +173,7 @@ CMakeFiles/oop_lab3_test.dir/src/FigureList.cpp.o: \
  /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/src/../include/FigureList.hpp \
  /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/src/../include/Vector.hpp \
  /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/src/../include/../src/Vector.cpp \
+ /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/src/../include/../src/../include/Vector.hpp \
  /usr/include/c++/12/memory /usr/include/c++/12/bits/stl_uninitialized.h \
  /usr/include/c++/12/bits/stl_tempbuf.h \
  /usr/include/c++/12/bits/stl_raw_storage_iter.h \
@@ -190,7 +191,6 @@ CMakeFiles/oop_lab3_test.dir/src/FigureList.cpp.o: \
  /usr/include/c++/12/backward/auto_ptr.h \
  /usr/include/c++/12/pstl/glue_memory_defs.h \
  /usr/include/c++/12/pstl/execution_defs.h \
- /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/src/../include/../src/../include/Vector.hpp \
  /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/src/../include/Figure.hpp \
  /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/src/../include/Point.hpp \
  /home/yuraevseev/Рабочий\ стол/education/oopLabs/3dLab/src/../include/Triangle.hpp \

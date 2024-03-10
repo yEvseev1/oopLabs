@@ -28,7 +28,7 @@ Six::Six(const std::string &number) {
     removeFirstZero(temp);
 
     size = temp.size();
-    this->number = new unsigned char[size];
+    this->number = new unsigned char[size]();
     for (int i = size - 1; i >= 0; i--) {
         this->number[size - 1 - i] = temp[i];
     }
@@ -48,6 +48,7 @@ Six::Six(const Six &other) {
     for (int i = 0; i < this->size; i++) {
         this->number[i] = other.number[i];
     }
+    std::cout << "constructor copy " << this->number << std::endl;
 }
 
 Six::Six(Six &&other) noexcept {
@@ -56,6 +57,7 @@ Six::Six(Six &&other) noexcept {
 
     other.size = 0;
     other.number = nullptr;
+    std::cout << "constructor move " << this->number << std::endl;
 }
 
 Six::~Six() noexcept {
@@ -79,20 +81,7 @@ Six &Six::operator=(const Six &other) {
     for (int i = 0; i < this->size; i++) {
         this->number[i] = other.number[i];
     }
-
-    return *this;
-}
-
-Six &Six::operator=(Six &&other) {
-    if (this == &other) return *this;
-
-    this->size = other.size;
-    delete[] this->number;
-    this->number = other.number;
-
-    other.number = nullptr;
-    other.size = 0;
-
+    std::cout << "operatot= copy " << this->number << std::endl;
     return *this;
 }
 

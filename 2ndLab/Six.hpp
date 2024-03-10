@@ -23,7 +23,6 @@ public:
     friend std::ostream &operator<<(std::ostream &os, const Six &obj);
 
     Six &operator=(const Six &other);
-    Six &operator=(Six &&other);
 
     bool operator==(const Six &other);
     bool operator!=(const Six &other);

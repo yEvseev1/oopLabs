@@ -13,12 +13,6 @@ int main() {
     std::cout << pointOne << std::endl;
     std::cout << triangleOne.area() << std::endl << std::endl;
 
-    Triangle triangleTwo(2);
-    Point pointTwo = triangleTwo.geom_center();
-    std::cout << triangleTwo << std::endl;
-    std::cout << pointTwo << std::endl;
-    std::cout << triangleTwo.area() << std::endl << std::endl;
-
     Hexagon hexagonOne(3);
     Point point3 = hexagonOne.geom_center();
     std::cout << hexagonOne << std::endl;
@@ -33,7 +27,6 @@ int main() {
 
     FigureList figureList{};
     figureList.push_back(&triangleOne);
-    figureList.push_back(&triangleTwo);
     figureList.push_back(&hexagonOne);
     figureList.push_back(&octagonOne);
 
